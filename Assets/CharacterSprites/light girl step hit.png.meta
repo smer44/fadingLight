@@ -1,0 +1,3887 @@
+fileFormatVersion: 2
+guid: 8fee11715f84fe24584771691f070bd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7664228424422136335
+    second: light girl step hit_0
+  - first:
+      213: 4208300028364689256
+    second: light girl step hit_1
+  - first:
+      213: 1021574270600006805
+    second: light girl step hit_2
+  - first:
+      213: 9145045857659945683
+    second: light girl step hit_3
+  - first:
+      213: -452719824583638411
+    second: light girl step hit_4
+  - first:
+      213: -2104821728171993179
+    second: light girl step hit_5
+  - first:
+      213: 268398701207019373
+    second: light girl step hit_6
+  - first:
+      213: -8353652683452063475
+    second: light girl step hit_7
+  - first:
+      213: 7616766865751407088
+    second: light girl step hit_8
+  - first:
+      213: -3941472451544512563
+    second: light girl step hit_9
+  - first:
+      213: 3262513215734750290
+    second: light girl step hit_10
+  - first:
+      213: -3847010917220799722
+    second: light girl step hit_11
+  - first:
+      213: 1387274793404237376
+    second: light girl step hit_12
+  - first:
+      213: -559308501618485792
+    second: light girl step hit_13
+  - first:
+      213: 6828794511816560758
+    second: light girl step hit_14
+  - first:
+      213: 2119057103305093833
+    second: light girl step hit_15
+  - first:
+      213: -7844429336713218855
+    second: light girl step hit_16
+  - first:
+      213: -1242511077016578210
+    second: light girl step hit_17
+  - first:
+      213: -3772965245029848956
+    second: light girl step hit_18
+  - first:
+      213: -1242233986402212207
+    second: light girl step hit_19
+  - first:
+      213: -6186326916933879783
+    second: light girl step hit_20
+  - first:
+      213: 5231468928062726595
+    second: light girl step hit_21
+  - first:
+      213: -4530082295957236970
+    second: light girl step hit_22
+  - first:
+      213: 5109973823160925923
+    second: light girl step hit_23
+  - first:
+      213: 6554380937029326938
+    second: light girl step hit_24
+  - first:
+      213: 3085243807542090117
+    second: light girl step hit_25
+  - first:
+      213: 5971284871741730107
+    second: light girl step hit_26
+  - first:
+      213: 5940055082768555599
+    second: light girl step hit_27
+  - first:
+      213: -6142771890614755854
+    second: light girl step hit_28
+  - first:
+      213: -9115463384485338695
+    second: light girl step hit_29
+  - first:
+      213: -3305652487165113190
+    second: light girl step hit_30
+  - first:
+      213: 2244143266986102044
+    second: light girl step hit_31
+  - first:
+      213: 1590583732914436620
+    second: light girl step hit_32
+  - first:
+      213: 6602710031489970015
+    second: light girl step hit_33
+  - first:
+      213: 3182223217839454934
+    second: light girl step hit_34
+  - first:
+      213: 4374966653586916072
+    second: light girl step hit_35
+  - first:
+      213: 1971600183091514302
+    second: light girl step hit_36
+  - first:
+      213: 1741619853433450372
+    second: light girl step hit_37
+  - first:
+      213: 8451260959565534342
+    second: light girl step hit_38
+  - first:
+      213: -6676622646219906871
+    second: light girl step hit_39
+  - first:
+      213: -6764791787311628127
+    second: light girl step hit_40
+  - first:
+      213: 6223572842604723391
+    second: light girl step hit_41
+  - first:
+      213: -3076228966427143866
+    second: light girl step hit_42
+  - first:
+      213: -8045770343636111519
+    second: light girl step hit_43
+  - first:
+      213: 4726586897897597087
+    second: light girl step hit_44
+  - first:
+      213: 5402727975063780355
+    second: light girl step hit_45
+  - first:
+      213: -8300419949539743893
+    second: light girl step hit_46
+  - first:
+      213: 7756538491305344715
+    second: light girl step hit_47
+  - first:
+      213: 4420100637414968679
+    second: light girl step hit_48
+  - first:
+      213: 7095246399793066165
+    second: light girl step hit_49
+  - first:
+      213: 4207197655606767480
+    second: light girl step hit_50
+  - first:
+      213: -4488590244570111647
+    second: light girl step hit_51
+  - first:
+      213: -6432386758930033477
+    second: light girl step hit_52
+  - first:
+      213: 7152128007061911680
+    second: light girl step hit_53
+  - first:
+      213: 756259762422255723
+    second: light girl step hit_54
+  - first:
+      213: -1210921154235293698
+    second: light girl step hit_55
+  - first:
+      213: 6566689725183089357
+    second: light girl step hit_56
+  - first:
+      213: 6103937407894332109
+    second: light girl step hit_57
+  - first:
+      213: 2190442059152777162
+    second: light girl step hit_58
+  - first:
+      213: 1864119160390668439
+    second: light girl step hit_59
+  - first:
+      213: -7277342131489666604
+    second: light girl step hit_60
+  - first:
+      213: -1319018816845096138
+    second: light girl step hit_61
+  - first:
+      213: -6032418296588157173
+    second: light girl step hit_62
+  - first:
+      213: 4925062038896068472
+    second: light girl step hit_63
+  - first:
+      213: -4939150238622658765
+    second: light girl step hit_64
+  - first:
+      213: -6398252152498079036
+    second: light girl step hit_65
+  - first:
+      213: 888490803612580748
+    second: light girl step hit_66
+  - first:
+      213: -2597644480335792753
+    second: light girl step hit_67
+  - first:
+      213: 899301126263695760
+    second: light girl step hit_68
+  - first:
+      213: -110926143681850329
+    second: light girl step hit_69
+  - first:
+      213: 5269443635513503305
+    second: light girl step hit_70
+  - first:
+      213: -7413050539782080038
+    second: light girl step hit_71
+  - first:
+      213: -5844039439139324492
+    second: light girl step hit_72
+  - first:
+      213: 870160626621826382
+    second: light girl step hit_73
+  - first:
+      213: -6744512231075235743
+    second: light girl step hit_74
+  - first:
+      213: -2138606210833120834
+    second: light girl step hit_75
+  - first:
+      213: 8040465351036131184
+    second: light girl step hit_76
+  - first:
+      213: 1139520033788553930
+    second: light girl step hit_77
+  - first:
+      213: 8908843425154345103
+    second: light girl step hit_78
+  - first:
+      213: -2383739367629114252
+    second: light girl step hit_79
+  - first:
+      213: -1499350732602700126
+    second: light girl step hit_80
+  - first:
+      213: 2741310896217959881
+    second: light girl step hit_81
+  - first:
+      213: 1746718127766503301
+    second: light girl step hit_82
+  - first:
+      213: 2099276529998114227
+    second: light girl step hit_83
+  - first:
+      213: -6086701905136243009
+    second: light girl step hit_84
+  - first:
+      213: 6792360019563747029
+    second: light girl step hit_85
+  - first:
+      213: -1082529219280558947
+    second: light girl step hit_86
+  - first:
+      213: 938192028610956084
+    second: light girl step hit_87
+  - first:
+      213: -7560581155710161632
+    second: light girl step hit_88
+  - first:
+      213: -6316732593458397876
+    second: light girl step hit_89
+  - first:
+      213: -7057444189284357916
+    second: light girl step hit_90
+  - first:
+      213: 5062082580484150483
+    second: light girl step hit_91
+  - first:
+      213: -7344438587508371338
+    second: light girl step hit_92
+  - first:
+      213: 5232664417981780234
+    second: light girl step hit_93
+  - first:
+      213: -1582457725066161143
+    second: light girl step hit_94
+  - first:
+      213: -6753046980213593684
+    second: light girl step hit_95
+  - first:
+      213: 6641434450429192751
+    second: light girl step hit_96
+  - first:
+      213: -8607837402042324139
+    second: light girl step hit_97
+  - first:
+      213: 4185234397477721990
+    second: light girl step hit_98
+  - first:
+      213: -2044359883319401842
+    second: light girl step hit_99
+  - first:
+      213: -2839503921275466728
+    second: light girl step hit_100
+  - first:
+      213: 6302183881566240871
+    second: light girl step hit_101
+  - first:
+      213: 126081459448479475
+    second: light girl step hit_102
+  - first:
+      213: 7638700922101512767
+    second: light girl step hit_103
+  - first:
+      213: -8484803017363351588
+    second: light girl step hit_104
+  - first:
+      213: 13146215156034125
+    second: light girl step hit_105
+  - first:
+      213: -3244217404635958782
+    second: light girl step hit_106
+  - first:
+      213: 1007518004815184771
+    second: light girl step hit_107
+  - first:
+      213: 1612249010615858583
+    second: light girl step hit_108
+  - first:
+      213: 4770200054609777508
+    second: light girl step hit_109
+  - first:
+      213: -1457291959824398933
+    second: light girl step hit_110
+  - first:
+      213: -3002165977702563175
+    second: light girl step hit_111
+  - first:
+      213: -1090795360350373492
+    second: light girl step hit_112
+  - first:
+      213: -5922670854260711403
+    second: light girl step hit_113
+  - first:
+      213: -2365945603268909967
+    second: light girl step hit_114
+  - first:
+      213: 5547729641747110669
+    second: light girl step hit_115
+  - first:
+      213: 7801498140130132324
+    second: light girl step hit_116
+  - first:
+      213: -3849014286177981
+    second: light girl step hit_117
+  - first:
+      213: -5354393659040871230
+    second: light girl step hit_118
+  - first:
+      213: -9031080253705845235
+    second: light girl step hit_119
+  - first:
+      213: 6012423810369975523
+    second: light girl step hit_120
+  - first:
+      213: -4984666908428114669
+    second: light girl step hit_121
+  - first:
+      213: 2516922358356026370
+    second: light girl step hit_122
+  - first:
+      213: -5656662164250172651
+    second: light girl step hit_123
+  - first:
+      213: 4183865318693745167
+    second: light girl step hit_124
+  - first:
+      213: -1199917703652210829
+    second: light girl step hit_125
+  - first:
+      213: 2477087541721552170
+    second: light girl step hit_126
+  - first:
+      213: -4203444364968693498
+    second: light girl step hit_127
+  - first:
+      213: 8561859697036527022
+    second: light girl step hit_128
+  - first:
+      213: -5874239654149641177
+    second: light girl step hit_129
+  - first:
+      213: -1295054063022183993
+    second: light girl step hit_130
+  - first:
+      213: 8988354082831676970
+    second: light girl step hit_131
+  - first:
+      213: 326592809898872758
+    second: light girl step hit_132
+  - first:
+      213: 3073915448665654299
+    second: light girl step hit_133
+  - first:
+      213: -8693214754449163244
+    second: light girl step hit_134
+  - first:
+      213: 6109842664341104447
+    second: light girl step hit_135
+  - first:
+      213: -8140808543749264411
+    second: light girl step hit_136
+  - first:
+      213: -8456063968472374616
+    second: light girl step hit_137
+  - first:
+      213: -7613402943846233661
+    second: light girl step hit_138
+  - first:
+      213: -2913242711791627046
+    second: light girl step hit_139
+  - first:
+      213: -8491668212674839519
+    second: light girl step hit_140
+  - first:
+      213: 5868536177221268101
+    second: light girl step hit_141
+  - first:
+      213: 1545866293511241576
+    second: light girl step hit_142
+  - first:
+      213: 7047327431142755280
+    second: light girl step hit_143
+  - first:
+      213: -4037178646770067070
+    second: light girl step hit_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: light girl step hit_0
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 962
+        width: 568
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5edd4dad033a590800000000000000
+      internalID: -7664228424422136335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 995
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f81fa4492e66a30800000000000000
+      internalID: 4208300028364689256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 990
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ccac6f26c5d2e00800000000000000
+      internalID: 1021574270600006805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1004
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d28a7841cab9ee70800000000000000
+      internalID: 9145045857659945683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_4
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 985
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5724ae8d7bd97b9f0800000000000000
+      internalID: -452719824583638411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 954
+        width: 277
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d8c04acb2ac2e0800000000000000
+      internalID: -2104821728171993179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_6
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 978
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fde9b523b89b300800000000000000
+      internalID: 268398701207019373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_7
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 986
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01e9d9d42dd11c80800000000000000
+      internalID: -8353652683452063475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_8
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 986
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9f31aeb1134b960800000000000000
+      internalID: 7616766865751407088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_9
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 977
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc783b920b31d49c0800000000000000
+      internalID: -3941472451544512563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 1257
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c13e2fb76c64d20800000000000000
+      internalID: 3262513215734750290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 57
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b210004fbac9ac0800000000000000
+      internalID: -3847010917220799722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_12
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 66
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04686b21317904310800000000000000
+      internalID: 1387274793404237376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_13
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 61
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e59c2191efec38f0800000000000000
+      internalID: -559308501618485792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 49
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67096f09d60c4ce50800000000000000
+      internalID: 6828794511816560758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 38
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2b44d4537686d10800000000000000
+      internalID: 2119057103305093833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_16
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 48
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d43e8f641df22390800000000000000
+      internalID: -7844429336713218855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_17
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5750f032c6b1cee0800000000000000
+      internalID: -1242511077016578210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_18
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 47
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488e914891cb3abc0800000000000000
+      internalID: -3772965245029848956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_19
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196249065c2b2cee0800000000000000
+      internalID: -1242233986402212207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_20
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f7b31270c52aa0800000000000000
+      internalID: -6186326916933879783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_21
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 45
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c12ca6c549e99840800000000000000
+      internalID: 5231468928062726595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_22
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 48
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613de2a372ae121c0800000000000000
+      internalID: -4530082295957236970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_23
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 46
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee3d0d4e164ae640800000000000000
+      internalID: 5109973823160925923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_24
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5899325cb6d5fa50800000000000000
+      internalID: 6554380937029326938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_25
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 52
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589150a85ecf0da20800000000000000
+      internalID: 3085243807542090117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_26
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d64d024f34ed250800000000000000
+      internalID: 5971284871741730107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_27
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 49
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e5ca240a05f6250800000000000000
+      internalID: 5940055082768555599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_28
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 45
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd17a3e28d70caa0800000000000000
+      internalID: -6142771890614755854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_29
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1ebacf85e5f7180800000000000000
+      internalID: -9115463384485338695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_30
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c03a7b396ff12d0800000000000000
+      internalID: -3305652487165113190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_31
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 30
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d8acd496cc42f10800000000000000
+      internalID: 2244143266986102044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_32
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 47
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a31e15a73e21610800000000000000
+      internalID: 1590583732914436620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_33
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f2edd7ac981ab50800000000000000
+      internalID: 6602710031489970015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_34
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 30
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da325f0827892c20800000000000000
+      internalID: 3182223217839454934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_35
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 28
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e24a3bedf007bc30800000000000000
+      internalID: 4374966653586916072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_36
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 45
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbc348abe78c5b10800000000000000
+      internalID: 1971600183091514302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_37
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 38
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f2ba9770a7b2810800000000000000
+      internalID: 1741619853433450372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_38
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684d707e019e84570800000000000000
+      internalID: 8451260959565534342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_39
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 45
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0ebb8d31fd753a0800000000000000
+      internalID: -6676622646219906871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_40
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a08fc9f5b1ae12a0800000000000000
+      internalID: -6764791787311628127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_41
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcf835c6829e5650800000000000000
+      internalID: 6223572842604723391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_42
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 46
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641d758bd0a0f45d0800000000000000
+      internalID: -3076228966427143866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_43
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f6233308ea75090800000000000000
+      internalID: -8045770343636111519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_44
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98a339bdb5389140800000000000000
+      internalID: 4726586897897597087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_45
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 37
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cfdbbe7785afa40800000000000000
+      internalID: 5402727975063780355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_46
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b672e1d880cfecc80800000000000000
+      internalID: -8300419949539743893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_47
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 47
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce36e479a2c4ab60800000000000000
+      internalID: 7756538491305344715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_48
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 40
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dc89c6c1a575d30800000000000000
+      internalID: 4420100637414968679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_49
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 39
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0f8852201677260800000000000000
+      internalID: 7095246399793066165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_50
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 40
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2c422af7f26a30800000000000000
+      internalID: 4207197655606767480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_51
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1616d1244f255b1c0800000000000000
+      internalID: -4488590244570111647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_52
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 43
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb49c00b2529bb6a0800000000000000
+      internalID: -6432386758930033477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_53
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0883c016786714360800000000000000
+      internalID: 7152128007061911680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_54
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 37
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6099114f36ce7a00800000000000000
+      internalID: 756259762422255723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_55
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff9cce30a1f13fe0800000000000000
+      internalID: -1210921154235293698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_56
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcadeb36381912b50800000000000000
+      internalID: 6566689725183089357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_57
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2a2c08bba85b450800000000000000
+      internalID: 6103937407894332109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_58
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 41
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf50e48273066e10800000000000000
+      internalID: 2190442059152777162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_59
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 40
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790d516ff7eaed910800000000000000
+      internalID: 1864119160390668439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_60
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 48
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9039f63efa10b90800000000000000
+      internalID: -7277342131489666604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_61
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 43
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b54e1ef57e1bde0800000000000000
+      internalID: -1319018816845096138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_62
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 45
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fbb47358b884ca0800000000000000
+      internalID: -6032418296588157173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_63
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877492d84d5595440800000000000000
+      internalID: 4925062038896068472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_64
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 41
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f4c96d60d947bb0800000000000000
+      internalID: -4939150238622658765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_65
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 40
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca39f21197d437a0800000000000000
+      internalID: -6398252152498079036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_66
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 43
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b778fadad845c00800000000000000
+      internalID: 888490803612580748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_67
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 40
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85b4d8ab1053fbd0800000000000000
+      internalID: -2597644480335792753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_68
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0996e011c95fa7c00800000000000000
+      internalID: 899301126263695760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_69
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 42
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7241a819249e57ef0800000000000000
+      internalID: -110926143681850329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_70
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 45
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ea9ba5113d02940800000000000000
+      internalID: 5269443635513503305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_71
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad975426fcd8f1990800000000000000
+      internalID: -7413050539782080038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_72
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 30
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd3ab8d71dc5eea0800000000000000
+      internalID: -5844039439139324492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_73
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454357ca7e631c00800000000000000
+      internalID: 870160626621826382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_74
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 26
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168bb7b1cdda662a0800000000000000
+      internalID: -6744512231075235743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_75
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 98
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb109d86bf42252e0800000000000000
+      internalID: -2138606210833120834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_76
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0775855f2a8759f60800000000000000
+      internalID: 8040465351036131184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 8
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca686cee6360df00800000000000000
+      internalID: 1139520033788553930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_78
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 35
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8826e3e4e192ab70800000000000000
+      internalID: 8908843425154345103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_79
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4743a5bbca14beed0800000000000000
+      internalID: -2383739367629114252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_80
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 29
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae8e7dd37c313be0800000000000000
+      internalID: -1499350732602700126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_81
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdaafb6cb71b0620800000000000000
+      internalID: 2741310896217959881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_82
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 32
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ff148f1e69d3810800000000000000
+      internalID: 1746718127766503301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_83
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd2adfa1e0222d10800000000000000
+      internalID: 2099276529998114227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_84
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe29a2bdd0b78ba0800000000000000
+      internalID: -6086701905136243009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_85
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 31
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d699a8437f434e50800000000000000
+      internalID: 6792360019563747029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_86
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d942dc919651af0f0800000000000000
+      internalID: -1082529219280558947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_87
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 34
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b8574eda0250d00800000000000000
+      internalID: 938192028610956084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 38
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d226e1f7b631790800000000000000
+      internalID: -7560581155710161632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_89
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 39
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db7c97c257658a0800000000000000
+      internalID: -6316732593458397876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_90
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 41
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8af8bd6ebee0e90800000000000000
+      internalID: -7057444189284357916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_91
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d453717941204640800000000000000
+      internalID: 5062082580484150483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_92
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 40
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67054e46400531a90800000000000000
+      internalID: -7344438587508371338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_93
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 24
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0151a670982e9840800000000000000
+      internalID: 5232664417981780234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_94
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904db51551bf90ae0800000000000000
+      internalID: -1582457725066161143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_95
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca928d8fc8b5842a0800000000000000
+      internalID: -6753046980213593684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_96
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aafd0e17d1b2c50800000000000000
+      internalID: 6641434450429192751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_97
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b22f63d71da8880800000000000000
+      internalID: -8607837402042324139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_98
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687d76b9280f41a30800000000000000
+      internalID: 4185234397477721990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_99
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 13
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8220b18489f0a3e0800000000000000
+      internalID: -2044359883319401842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_100
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c0c0a5a3e0898d0800000000000000
+      internalID: -2839503921275466728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_101
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 21
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760c2f199dad57750800000000000000
+      internalID: 6302183881566240871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_102
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 21
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe703b5b6eefb100800000000000000
+      internalID: 126081459448479475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_103
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 19
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3f4f540e120a60800000000000000
+      internalID: 7638700922101512767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 15
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd715e03c9cef3a80800000000000000
+      internalID: -8484803017363351588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_105
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a248cb964be2000800000000000000
+      internalID: 13146215156034125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202b88685793af2d0800000000000000
+      internalID: -3244217404635958782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_107
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383c1dd894c6bfd00800000000000000
+      internalID: 1007518004815184771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_108
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 13
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795bb3fdeebdf5610800000000000000
+      internalID: 1612249010615858583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_109
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 16
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46390921da7233240800000000000000
+      internalID: 4770200054609777508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_110
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 10
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba542a00fa8a6cbe0800000000000000
+      internalID: -1457291959824398933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_111
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 11
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992864e03f92656d0800000000000000
+      internalID: -3002165977702563175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_112
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89fba72667bcd0f0800000000000000
+      internalID: -1090795360350373492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_113
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5102b3adc327ecda0800000000000000
+      internalID: -5922670854260711403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_114
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174624752097a2fd0800000000000000
+      internalID: -2365945603268909967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_115
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bdd3e47be7dfc40800000000000000
+      internalID: 5547729641747110669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_116
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461c35e693d744c60800000000000000
+      internalID: 7801498140130132324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_117
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349acb6875352fff0800000000000000
+      internalID: -3849014286177981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_118
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc34df55f51b5b0800000000000000
+      internalID: -5354393659040871230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_119
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0681d3ab582ba280800000000000000
+      internalID: -9031080253705845235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_120
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f330b99b607350800000000000000
+      internalID: 6012423810369975523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_121
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3156f7f4bd7e2dab0800000000000000
+      internalID: -4984666908428114669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_122
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 8
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ac09bc87ede220800000000000000
+      internalID: 2516922358356026370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_123
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513e97d5bbf7f71b0800000000000000
+      internalID: -5656662164250172651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_124
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0231dc1753101a30800000000000000
+      internalID: 4183865318693745167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_125
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3778b1ab439095fe0800000000000000
+      internalID: -1199917703652210829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_126
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25dbd9bef1606220800000000000000
+      internalID: 2477087541721552170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_127
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6017ce0fe9d5aa5c0800000000000000
+      internalID: -4203444364968693498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_128
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea588922806d1d670800000000000000
+      internalID: 8561859697036527022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_129
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca5e858228a7ea0800000000000000
+      internalID: -5874239654149641177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_130
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9e2a0f03b070ee0800000000000000
+      internalID: -1295054063022183993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_131
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a263d9e7a6c0dbc70800000000000000
+      internalID: 8988354082831676970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_132
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf08342e6a488400800000000000000
+      internalID: 326592809898872758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_133
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b144d4370ddb8aa20800000000000000
+      internalID: 3073915448665654299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_134
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c7fdc4d3f7b5780800000000000000
+      internalID: -8693214754449163244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_135
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e39928858ac450800000000000000
+      internalID: 6109842664341104447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_136
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb2c55e2c9060f80800000000000000
+      internalID: -8140808543749264411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_137
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a269317f9606aa80800000000000000
+      internalID: -8456063968472374616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_138
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9c1203c52c75690800000000000000
+      internalID: -7613402943846233661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_139
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad41a2b40351297d0800000000000000
+      internalID: -2913242711791627046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_140
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c3a0950c8872a80800000000000000
+      internalID: -8491668212674839519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_141
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5827dc27f8a317150800000000000000
+      internalID: 5868536177221268101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_142
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fbcfe1435047510800000000000000
+      internalID: 1545866293511241576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_143
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db4125d5f22dc160800000000000000
+      internalID: 7047327431142755280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light girl step hit_144
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2895a70296f09f7c0800000000000000
+      internalID: -4037178646770067070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      light girl step hit_0: -7664228424422136335
+      light girl step hit_1: 4208300028364689256
+      light girl step hit_10: 3262513215734750290
+      light girl step hit_100: -2839503921275466728
+      light girl step hit_101: 6302183881566240871
+      light girl step hit_102: 126081459448479475
+      light girl step hit_103: 7638700922101512767
+      light girl step hit_104: -8484803017363351588
+      light girl step hit_105: 13146215156034125
+      light girl step hit_106: -3244217404635958782
+      light girl step hit_107: 1007518004815184771
+      light girl step hit_108: 1612249010615858583
+      light girl step hit_109: 4770200054609777508
+      light girl step hit_11: -3847010917220799722
+      light girl step hit_110: -1457291959824398933
+      light girl step hit_111: -3002165977702563175
+      light girl step hit_112: -1090795360350373492
+      light girl step hit_113: -5922670854260711403
+      light girl step hit_114: -2365945603268909967
+      light girl step hit_115: 5547729641747110669
+      light girl step hit_116: 7801498140130132324
+      light girl step hit_117: -3849014286177981
+      light girl step hit_118: -5354393659040871230
+      light girl step hit_119: -9031080253705845235
+      light girl step hit_12: 1387274793404237376
+      light girl step hit_120: 6012423810369975523
+      light girl step hit_121: -4984666908428114669
+      light girl step hit_122: 2516922358356026370
+      light girl step hit_123: -5656662164250172651
+      light girl step hit_124: 4183865318693745167
+      light girl step hit_125: -1199917703652210829
+      light girl step hit_126: 2477087541721552170
+      light girl step hit_127: -4203444364968693498
+      light girl step hit_128: 8561859697036527022
+      light girl step hit_129: -5874239654149641177
+      light girl step hit_13: -559308501618485792
+      light girl step hit_130: -1295054063022183993
+      light girl step hit_131: 8988354082831676970
+      light girl step hit_132: 326592809898872758
+      light girl step hit_133: 3073915448665654299
+      light girl step hit_134: -8693214754449163244
+      light girl step hit_135: 6109842664341104447
+      light girl step hit_136: -8140808543749264411
+      light girl step hit_137: -8456063968472374616
+      light girl step hit_138: -7613402943846233661
+      light girl step hit_139: -2913242711791627046
+      light girl step hit_14: 6828794511816560758
+      light girl step hit_140: -8491668212674839519
+      light girl step hit_141: 5868536177221268101
+      light girl step hit_142: 1545866293511241576
+      light girl step hit_143: 7047327431142755280
+      light girl step hit_144: -4037178646770067070
+      light girl step hit_15: 2119057103305093833
+      light girl step hit_16: -7844429336713218855
+      light girl step hit_17: -1242511077016578210
+      light girl step hit_18: -3772965245029848956
+      light girl step hit_19: -1242233986402212207
+      light girl step hit_2: 1021574270600006805
+      light girl step hit_20: -6186326916933879783
+      light girl step hit_21: 5231468928062726595
+      light girl step hit_22: -4530082295957236970
+      light girl step hit_23: 5109973823160925923
+      light girl step hit_24: 6554380937029326938
+      light girl step hit_25: 3085243807542090117
+      light girl step hit_26: 5971284871741730107
+      light girl step hit_27: 5940055082768555599
+      light girl step hit_28: -6142771890614755854
+      light girl step hit_29: -9115463384485338695
+      light girl step hit_3: 9145045857659945683
+      light girl step hit_30: -3305652487165113190
+      light girl step hit_31: 2244143266986102044
+      light girl step hit_32: 1590583732914436620
+      light girl step hit_33: 6602710031489970015
+      light girl step hit_34: 3182223217839454934
+      light girl step hit_35: 4374966653586916072
+      light girl step hit_36: 1971600183091514302
+      light girl step hit_37: 1741619853433450372
+      light girl step hit_38: 8451260959565534342
+      light girl step hit_39: -6676622646219906871
+      light girl step hit_4: -452719824583638411
+      light girl step hit_40: -6764791787311628127
+      light girl step hit_41: 6223572842604723391
+      light girl step hit_42: -3076228966427143866
+      light girl step hit_43: -8045770343636111519
+      light girl step hit_44: 4726586897897597087
+      light girl step hit_45: 5402727975063780355
+      light girl step hit_46: -8300419949539743893
+      light girl step hit_47: 7756538491305344715
+      light girl step hit_48: 4420100637414968679
+      light girl step hit_49: 7095246399793066165
+      light girl step hit_5: -2104821728171993179
+      light girl step hit_50: 4207197655606767480
+      light girl step hit_51: -4488590244570111647
+      light girl step hit_52: -6432386758930033477
+      light girl step hit_53: 7152128007061911680
+      light girl step hit_54: 756259762422255723
+      light girl step hit_55: -1210921154235293698
+      light girl step hit_56: 6566689725183089357
+      light girl step hit_57: 6103937407894332109
+      light girl step hit_58: 2190442059152777162
+      light girl step hit_59: 1864119160390668439
+      light girl step hit_6: 268398701207019373
+      light girl step hit_60: -7277342131489666604
+      light girl step hit_61: -1319018816845096138
+      light girl step hit_62: -6032418296588157173
+      light girl step hit_63: 4925062038896068472
+      light girl step hit_64: -4939150238622658765
+      light girl step hit_65: -6398252152498079036
+      light girl step hit_66: 888490803612580748
+      light girl step hit_67: -2597644480335792753
+      light girl step hit_68: 899301126263695760
+      light girl step hit_69: -110926143681850329
+      light girl step hit_7: -8353652683452063475
+      light girl step hit_70: 5269443635513503305
+      light girl step hit_71: -7413050539782080038
+      light girl step hit_72: -5844039439139324492
+      light girl step hit_73: 870160626621826382
+      light girl step hit_74: -6744512231075235743
+      light girl step hit_75: -2138606210833120834
+      light girl step hit_76: 8040465351036131184
+      light girl step hit_77: 1139520033788553930
+      light girl step hit_78: 8908843425154345103
+      light girl step hit_79: -2383739367629114252
+      light girl step hit_8: 7616766865751407088
+      light girl step hit_80: -1499350732602700126
+      light girl step hit_81: 2741310896217959881
+      light girl step hit_82: 1746718127766503301
+      light girl step hit_83: 2099276529998114227
+      light girl step hit_84: -6086701905136243009
+      light girl step hit_85: 6792360019563747029
+      light girl step hit_86: -1082529219280558947
+      light girl step hit_87: 938192028610956084
+      light girl step hit_88: -7560581155710161632
+      light girl step hit_89: -6316732593458397876
+      light girl step hit_9: -3941472451544512563
+      light girl step hit_90: -7057444189284357916
+      light girl step hit_91: 5062082580484150483
+      light girl step hit_92: -7344438587508371338
+      light girl step hit_93: 5232664417981780234
+      light girl step hit_94: -1582457725066161143
+      light girl step hit_95: -6753046980213593684
+      light girl step hit_96: 6641434450429192751
+      light girl step hit_97: -8607837402042324139
+      light girl step hit_98: 4185234397477721990
+      light girl step hit_99: -2044359883319401842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
