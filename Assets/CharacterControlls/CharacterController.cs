@@ -144,7 +144,7 @@ public class CharacterController2D : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log($"collided with {collision.collider}");
+        //Debug.Log($"collided with {collision.collider}");
         // Check if the object we collided with is tagged as "floor"
         if (collision.collider.CompareTag("Floor"))
         {
